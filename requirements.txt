@@ -1,0 +1,7 @@
+dataclasses
+Flask
+Flask-SQLAlchemy
+flask-cors
+pymysql
+mysql-connector-python
+SQLAlchemy-serializer
